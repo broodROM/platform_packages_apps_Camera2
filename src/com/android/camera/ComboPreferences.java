@@ -1,6 +1,5 @@
 /*
  * Copyright (C) 2010 The Android Open Source Project
- * Copyright (C) 2013-2014 The CyanogenMod Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -154,7 +153,6 @@ public class ComboPreferences implements
                 || key.equals(CameraSettings.KEY_TIMER)
                 || key.equals(CameraSettings.KEY_TIMER_SOUND_EFFECTS)
                 || key.equals(CameraSettings.KEY_PHOTOSPHERE_PICTURESIZE)
-                || key.equals(CameraSettings.KEY_POWER_SHUTTER)
                 || key.equals(CameraSettings.KEY_STORAGE);
     }
 
